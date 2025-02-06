@@ -12,7 +12,7 @@ This project is a **Basic File Encryption Tool** that allows users to **encrypt 
 ## Installation
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/file-encryption-tool.git
+git clone https://github.com/adamsaqer/file-encryption-tool.git
 cd file-encryption-tool
 ```
 
