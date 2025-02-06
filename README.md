@@ -18,7 +18,7 @@ cd file-encryption-tool
 
 ### 2️⃣ Install Dependencies
 ```bash
-pip install -r requirements.txt
+pip install pycryptodome
 ```
 
 ### 3️⃣ Usage
@@ -42,7 +42,6 @@ python file_encryption_tool.py
 ```
 📂 file-encryption-tool/
 ├── file_encryption_tool.py  # Main script
-├── requirements.txt         # Dependencies
 ├── README.md                # Documentation
 ```
 
